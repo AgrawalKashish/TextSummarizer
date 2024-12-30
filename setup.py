@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "TextSummarizer"
 AUTHOR_USER_NAME = "AgrawalKashish"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "TextSummarizer"
 AUTHOR_EMAIL = "kashishagrawal883@gmail.com"
 
 
